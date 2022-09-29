@@ -13,5 +13,5 @@ ros2 run turtlesim turtlesim_node
 ```
 cd assignment2
 source install/setup.bash
-ros2 run ros2_assignment2_cpp control_node
+ros2 run ros2_assignment2_cpp controller_node 
 ```
